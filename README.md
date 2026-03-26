@@ -36,3 +36,6 @@ The Relay Pulse is designed to be fractal. To solve homelessness for the roughly
 > **License & Copyright**
 > The written concepts, charters, and frameworks within this document are licensed under the **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**. 
 > The underlying software architecture, algorithms, and P2P logic are licensed under the **Apache License 2.0**. See the `LICENSE` file for details.
+>[
+](https://paulstatchen.blogspot.com/2026/03/he-open-square-launching-relay-pulse-in.html
+)> 
