@@ -11,6 +11,7 @@ To prevent organizational bloat, the project is split into independent geographi
 
 ## 🛡️ Key Technologies
 * **Biometric NFC Cards:** High-security cards locked by a thumbprint to prevent theft or bartering.
+* **MCC Smart-Filtering:** Funds are mathematically locked to specific Merchant Category Codes (e.g., grocery stores, pharmacies, transit) to guarantee aid is used only for survival essentials, eliminating the need for manual receipt auditing.
 * **Privacy Shield (ZKP):** Verifies eligibility without storing personal data, creating a "Digital Sanctuary."
 * **Relay Pulse (P2P):** A peer-to-peer heartbeat that shares fraud alerts and resource balances across the network.
 * **Guardian AI:** An oversight layer that audits every transaction to protect the **90% Stewardship Standard** (90 cents of every dollar reaches the street).
